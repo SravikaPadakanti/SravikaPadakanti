@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BA9FF,25:A5ADFF,50:AFB1FF,75:B9B5FF,100:C4BAFF&height=300&section=header&text=Sravika%20Padakanti&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=51&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=300&section=header&text=Sravika%20Padakanti&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=51&descAlign=50&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9BA9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Solutions+That+Matter)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Solutions+That+Matter)
 
 </div>
 
@@ -145,17 +145,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SravikaPadakanti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=9BA9FF&icon_color=AFB1FF&text_color=9BA9FF&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SravikaPadakanti&theme=tokyonight&hide_border=true&ring=9BA9FF&fire=AFB1FF&currStreakLabel=9BA9FF&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SravikaPadakanti&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SravikaPadakanti&theme=radical&hide_border=true&ring=667eea&fire=f093fb&currStreakLabel=667eea&background=0d1117&stroke=764ba2" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SravikaPadakanti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9BA9FF&text_color=9BA9FF&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SravikaPadakanti&theme=tokyo-night&hide_border=true&area=true&color=9BA9FF&point=AFB1FF&line=B9B5FF&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SravikaPadakanti&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=667eea&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SravikaPadakanti&theme=react-dark&hide_border=true&area=true&color=667eea&point=f093fb&line=764ba2&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SravikaPadakanti&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title_color=9BA9FF&icon_color=AFB1FF&text_color=9BA9FF" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SravikaPadakanti&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
