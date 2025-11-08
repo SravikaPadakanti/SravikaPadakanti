@@ -8,7 +8,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 🚀 About Me
 
@@ -99,49 +99,46 @@
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Indian Cultural Heritage Explorer</h3>
-<div align="center">  
-<a href="https://github.com/SravikaPadakanti" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Project"/>
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/SravikaPadakanti" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>  
-<a href="https://github.com/SravikaPadakanti" target="_blank">
-<img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-<p><strong>Python, Streamlit, Snowflake, Gemini 2.0, Folium, Plotly</strong> - AI-powered platform promoting India's cultural heritage with interactive visualizations and Bharat Bot chatbot</p>
-</div>
-</td>
+<div align="center">
 
-<td width="50%">
-<h3 align="center">MediScan</h3>
-<div align="center">  
-<a href="https://github.com/SravikaPadakanti" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="Project"/>
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/SravikaPadakanti" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>  
-<a href="https://github.com/SravikaPadakanti" target="_blank">
-<img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+### 🎨 Indian Cultural Heritage Explorer
+[![Indian Cultural Heritage](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer)
+
+<p align="center">
+  <a href="https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+  <a href="https://youtu.be/YOUR_DEMO_VIDEO_ID">
+    <img src="https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video"/>
+  </a>
+  <a href="https://your-live-link.streamlit.app">
+    <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+  </a>
 </p>
-<p><strong>Node.js, Express.js, MySQL, Docker, LibreTranslate API</strong> - QR-based medicine information system with real-time language translation</p>
+
+**AI-powered platform promoting India's cultural heritage** with interactive maps, dynamic visualizations, and Bharat Bot chatbot powered by Gemini 2.0 Flash AI
+
+**Tech Stack:** `Python` `Streamlit` `Snowflake` `Gemini 2.0` `Folium` `Plotly` `Pandas` `NumPy`
+
+---
+
+### 💊 MediScan - QR Medicine Information System
+[![MediScan](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)](https://github.com/SravikaPadakanti/MediScan)
+
+<p align="center">
+  <a href="https://github.com/SravikaPadakanti/MediScan">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+  <a href="https://your-live-link.com">
+    <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+**Web platform enabling QR code-based medicine information access** with real-time language translation, solving the problem of lost information when medicine strips are cut
+
+**Tech Stack:** `Node.js` `Express.js` `MySQL` `Docker` `LibreTranslate API` `HTML5` `CSS3` `JavaScript`
+
 </div>
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -158,7 +155,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SravikaPadakanti&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SravikaPadakanti&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -167,67 +164,17 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
-<br><strong>Adobe Hackathon 2025</strong>
-<br>Top 4000/100,000+ 
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" />
-<br><strong>Smart Chatbots</strong>
-<br>2nd Place (Nov 2024)
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15c6e7d3-0b1f-4b8e-85d8-b4f5d5a7c0ff.png" width="80" />
-<br><strong>NPTEL C Programming</strong>
-<br>Silver Badge - Top 5%
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" />
-<br><strong>Medha Scholar</strong>
-<br>6-year Scholarship
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" />
-<br><strong>SheFi Scholar S14</strong>
-<br>Web3 Education
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80" />
-<br><strong>Summer of AI 2025</strong>
-<br>Open Source LLM
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Experience Timeline
-
-<div align="center">
-
-```mermaid
-gantt
-    title My Journey
-    dateFormat  YYYY-MM
-    section Education
-    B.E. CSE @ MVSREC     :2023-09, 2027-08
-    section Scholarships
-    Medha Sampurna Siksha :2021-03, 2027-08
-    NSDC Fellowship       :2024-01, 2027-08
-    section Internships
-    Data Verification     :2024-04, 2024-05
-    Summer of AI 2025     :2025-06, 2025-08
-    section Achievements
-    Adobe Hackathon       :milestone, 2025-01, 0d
-    Smart Chatbots 2nd    :milestone, 2024-11, 0d
-```
+| 🎯 Achievement | 📝 Details |
+|:--------------|:-----------|
+| 🏆 **Adobe India Hackathon 2025** | Selected among top 4000 out of 100,000+ applicants, advancing to Level 2 |
+| 🥈 **Smart Chatbots Competition** | Secured 2nd place at Hashinclude (November 2024) |
+| 📜 **NPTEL C Programming** | Silver Badge - Top 5% (77% Score) from IIT Kharagpur |
+| 📜 **NPTEL Java Programming** | 69% Score from IIT Kharagpur |
+| 🎓 **Medha Sampurna Siksha Scholar** | 6-year scholarship for intermediate and graduation (2021-2027) |
+| 💼 **NSDC Fellowship** | NextWave 3-year Training Program (2024-2027) |
+| 🌐 **SheFi Scholar (Season 14)** | Selected from competitive global pool for Web3 education |
+| 🤖 **Summer of AI 2025** | Selected by Viswam.AI and Swecha for open-source Telugu LLM development |
+| 💻 **Hashinclude Internship** | Selected for internship after winning Smart Chatbots competition |
 
 </div>
 
@@ -244,48 +191,4 @@ gantt
   <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" />
 </a>
 <a href="mailto:Padakantisravikaa@gmail.com">
-  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.gif" width="100" />
-</a>
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sravika-Padakanti/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SravikaPadakanti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Padakantisravikaa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/SravikaPadakanti)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💭 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SravikaPadakanti/SravikaPadakanti/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=SravikaPadakanti&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/SravikaPadakanti?style=for-the-badge&color=blue&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/SravikaPadakanti?style=for-the-badge&color=yellow&label=Stars)
-
-### Show some ❤️ by starring some of my repositories!
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857
