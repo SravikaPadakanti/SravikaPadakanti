@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Sravika%20Padakanti&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9BA9FF,25:A5ADFF,50:AFB1FF,75:B9B5FF,100:C4BAFF&height=300&section=header&text=Sravika%20Padakanti&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=51&descAlign=50&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Solutions+That+Matter)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9BA9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Solutions+That+Matter)
 
 </div>
 
@@ -68,7 +68,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 AI & Data Science
@@ -145,17 +145,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SravikaPadakanti&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SravikaPadakanti&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SravikaPadakanti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=9BA9FF&icon_color=AFB1FF&text_color=9BA9FF&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SravikaPadakanti&theme=tokyonight&hide_border=true&ring=9BA9FF&fire=AFB1FF&currStreakLabel=9BA9FF&background=0D1117" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SravikaPadakanti&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SravikaPadakanti&theme=redical&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SravikaPadakanti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9BA9FF&text_color=9BA9FF&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SravikaPadakanti&theme=tokyo-night&hide_border=true&area=true&color=9BA9FF&point=AFB1FF&line=B9B5FF&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SravikaPadakanti&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SravikaPadakanti&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title_color=9BA9FF&icon_color=AFB1FF&text_color=9BA9FF" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
