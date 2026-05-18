@@ -92,7 +92,7 @@
 
 <div align="center">
 
-### 🤝 SkillConnect - Peer-to-Peer Skill Sharing
+### 🤝 [SkillConnect](https://github.com/SravikaPadakanti/SkillConnect) - Peer-to-Peer Skill Sharing
 [![SkillConnect](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/SkillConnect)
 
 <p align="center">
@@ -106,7 +106,7 @@
 
 ---
 
-### 🎨 Indian Cultural Heritage Explorer
+### 🎨 [Indian Cultural Heritage Explorer](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer)
 [![Indian Cultural Heritage](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer)
 
 <p align="center">
@@ -120,7 +120,7 @@
 
 ---
 
-### 💬 ChatNCollab - Real-time Collaboration Platform
+### 💬 [ChatNCollab](https://github.com/SravikaPadakanti/ChatNCollab) - Real-time Collaboration Platform
 [![ChatNCollab](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/ChatNCollab)
 
 <p align="center">
@@ -134,7 +134,7 @@
 
 ---
 
-### 💊 MediScan - QR Medicine Information System
+### 💊 [MediScan](https://github.com/SravikaPadakanti/MediScan) - QR Medicine Information System
 [![MediScan](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)](https://github.com/SravikaPadakanti/MediScan)
 
 <p align="center">
@@ -153,14 +153,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SravikaPadakanti&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SravikaPadakanti&theme=radical&hide_border=true&ring=667eea&fire=f093fb&currStreakLabel=667eea&background=0d1117&stroke=764ba2" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SravikaPadakanti&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=667eea&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SravikaPadakanti&theme=radical&hide_border=true&ring=667eea&fire=f093fb&currStreakLabel=667eea&background=0d1117&stroke=764ba2" />
 </div>
 
 <br>
