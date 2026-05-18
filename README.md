@@ -12,17 +12,27 @@
 
 ### 🚀 About Me
 
-- 🎓 **B.E. in Computer Science** @ MVSREC | CGPA: **9.47/10**
+- 💼 **Software Development Engineer Intern** @ Algorithm Aliens
+- 🎓 **B.E. in Computer Science Engineering** @ MVSREC | CGPA: **9.28/10**
 - 🏆 **Top 4000** out of 100,000+ in Adobe India Hackathon 2025
-- 💡 Building **AI-powered solutions** for real-world problems
-- 🌱 Contributing to **open-source Telugu LLM** development
+- 💡 Building **AI-powered scalable applications** and real-time collaboration tools
+- 🌱 Contributing to **open-source Telugu LLM** development (Summer of AI)
 - 🎯 **2nd Place** in Smart Chatbots Competition (Nov 2024)
 - 📚 **Medha Sampurna Siksha Scholar** (6-year scholarship)
 - 🌐 **SheFi Scholar Season 14** - Web3 Education Program
-- 🔭 Currently learning **React Native** and **Cloud Technologies**
-- 💬 Ask me about **Full Stack Development, AI, and Data Science**
+- 🔭 Currently exploring **Next.js, NestJS, and advanced caching with Redis**
+- 💬 Ask me about **MERN Stack, GenAI integrations, and Data Science**
 
 <br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Experience
+
+| Role | Company | Duration |
+| :--- | :--- | :--- |
+| **SDE Intern** | **Algorithm Aliens Private Limited** | *Mar 2026 - Present* |
+| **Web Design Intern** | **Black Legal Associates** | *Feb 2026 - May 2026* |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -40,7 +50,6 @@
 </p>
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -50,48 +59,30 @@
 <p>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
   <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="65" height="65">
-  <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="65" height="65">
 </p>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ### ⚙️ Backend & Database
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 </p>
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🤖 AI & Data Science
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65">
-</p>
-
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65">
-</p>
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -101,24 +92,31 @@
 
 <div align="center">
 
-### 🎨 Indian Cultural Heritage Explorer
-[![Indian Cultural Heritage](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer)
+### 🤝 SkillConnect - Peer-to-Peer Skill Sharing
+[![SkillConnect](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/SkillConnect)
 
 <p align="center">
-  <a href="https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer">
+  <a href="https://github.com/SravikaPadakanti/SkillConnect">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-  </a>
-  <a href="https://youtu.be/YOUR_DEMO_VIDEO_ID">
-    <img src="https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video"/>
-  </a>
-  <a href="https://your-live-link.streamlit.app">
-    <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
 
-**AI-powered platform promoting India's cultural heritage** with interactive maps, dynamic visualizations, and Bharat Bot chatbot powered by Gemini 2.0 Flash AI
+**Full-stack skill-sharing platform** featuring live classrooms (WebRTC, Socket.io), shared whiteboards, real-time chat, and an integrated Gemini AI chatbot. 
+**Tech Stack:** `React 18` `Node.js` `Express.js` `MongoDB` `Socket.io` `WebRTC` `Gemini AI` `TailwindCSS`
 
-**Tech Stack:** `Python` `Streamlit` `Snowflake` `Gemini 2.0` `Folium` `Plotly` `Pandas` `NumPy`
+---
+
+### 💬 ChatNCollab - Real-time Collaboration Platform
+[![ChatNCollab](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/ChatNCollab)
+
+<p align="center">
+  <a href="https://github.com/SravikaPadakanti/ChatNCollab">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+</p>
+
+**Real-time team workspace** optimized with Redis caching for low latency, featuring live messaging via Socket.io and intelligent task generation powered by Gemini AI.
+**Tech Stack:** `MERN Stack` `Redis` `Socket.io` `Context API` `JWT`
 
 ---
 
@@ -129,14 +127,10 @@
   <a href="https://github.com/SravikaPadakanti/MediScan">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
   </a>
-  <a href="https://your-live-link.com">
-    <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-  </a>
 </p>
 
-**Web platform enabling QR code-based medicine information access** with real-time language translation, solving the problem of lost information when medicine strips are cut
-
-**Tech Stack:** `Node.js` `Express.js` `MySQL` `Docker` `LibreTranslate API` `HTML5` `CSS3` `JavaScript`
+**Web platform enabling QR code-based medicine information access** with real-time multilingual translation API integrations for enhanced accessibility.
+**Tech Stack:** `Node.js` `Express.js` `MySQL` `LibreTranslate API` `HTML/CSS/JS`
 
 </div>
 
@@ -167,14 +161,13 @@
 | 🎯 Achievement | 📝 Details |
 |:--------------|:-----------|
 | 🏆 **Adobe India Hackathon 2025** | Selected among top 4000 out of 100,000+ applicants, advancing to Level 2 |
-| 🥈 **Smart Chatbots Competition** | Secured 2nd place at Hashinclude (November 2024) |
-| 📜 **NPTEL C Programming** | Silver Badge - Top 5% (77% Score) from IIT Kharagpur |
-| 📜 **NPTEL Java Programming** | 69% Score from IIT Kharagpur |
+| 🤖 **Summer of AI 2025** | Selected by Viswam.AI and Swecha for open-source Telugu LLM development |
+| 🌐 **SheFi Scholar (Season 14)** | Selected from competitive global pool for Web3 education |
+| 🥈 **Smart Chatbots Competition** | Secured 2nd place at Hashinclude (November 2024); resulted in an internship offer |
 | 🎓 **Medha Sampurna Siksha Scholar** | 6-year scholarship for intermediate and graduation (2021-2027) |
 | 💼 **NSDC Fellowship** | NextWave 3-year Training Program (2024-2027) |
-| 🌐 **SheFi Scholar (Season 14)** | Selected from competitive global pool for Web3 education |
-| 🤖 **Summer of AI 2025** | Selected by Viswam.AI and Swecha for open-source Telugu LLM development |
-| 💻 **Hashinclude Internship** | Selected for internship after winning Smart Chatbots competition |
+| 📜 **NPTEL Certifications** | C Programming Silver Badge (Top 5%, 77%) & Java (69%) from IIT Kharagpur |
+| ☁️ **AWS & Oracle Certified** | AWS Cloud Foundation & Oracle MySQL Certifications |
 
 </div>
 
@@ -191,4 +184,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" />
 </a>
 <a href="mailto:Padakantisravikaa@gmail.com">
-  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857
+  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-897b-91cc2ed686ff.png" width="100" />
+</a>
+
+</div>
