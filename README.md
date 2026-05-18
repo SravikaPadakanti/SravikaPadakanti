@@ -106,6 +106,20 @@
 
 ---
 
+### 🎨 Indian Cultural Heritage Explorer
+[![Indian Cultural Heritage](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer)
+
+<p align="center">
+  <a href="https://github.com/SravikaPadakanti/Indian-Cultural-Heritage-Explorer">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+</p>
+
+**AI-powered platform promoting India's cultural heritage** with interactive maps, dynamic visualizations, and Bharat Bot chatbot powered by Gemini 2.0 Flash AI.
+**Tech Stack:** `Python` `Streamlit` `Snowflake` `Gemini 2.0` `Folium` `Plotly` `Pandas` `NumPy`
+
+---
+
 ### 💬 ChatNCollab - Real-time Collaboration Platform
 [![ChatNCollab](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/SravikaPadakanti/ChatNCollab)
 
@@ -143,10 +157,13 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SravikaPadakanti&theme=radical&hide_border=true&ring=667eea&fire=f093fb&currStreakLabel=667eea&background=0d1117&stroke=764ba2" />
 </div>
 
+<br>
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SravikaPadakanti&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=667eea&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SravikaPadakanti&theme=react-dark&hide_border=true&area=true&color=667eea&point=f093fb&line=764ba2&bg_color=0d1117" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SravikaPadakanti&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" width="100%" />
@@ -175,16 +192,14 @@
 
 ## 📫 Let's Connect
 
-<div align="center">
-
-<a href="https://linkedin.com/in/Sravika-Padakanti/">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
-</a>
-<a href="https://github.com/SravikaPadakanti">
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" />
-</a>
-<a href="mailto:Padakantisravikaa@gmail.com">
-  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-897b-91cc2ed686ff.png" width="100" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/Sravika-Padakanti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SravikaPadakanti">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:Padakantisravikaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
